@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Azhar Ali</h1>
-<h3 align="center">convert this into a tagline Hi, my name is Henderson. I have over 5 years of experience in blockchain development and security. I am an expert in smart contracts and have worked on a variety of projects, including NFT marketplaces, React .js, WEB3 .js, Solidity, DAOs, and DeFi platforms. I am also a skilled graphic designer and web developer and can create custom solutions for your blockchain needs. I am passionate about using my skills to help businesses and individuals adopt blockchain technology.</h3>
+<h3 align="center">Hi, my name is Azhar Ali I have over 5 years of experience in web development, blockchain development and security. I am an expert in smart contracts and have worked on a variety of projects, including NFT marketplaces, React .js, WEB3 .js, Solidity, DAOs, and DeFi platforms. I am also a skilled graphic designer and web developer and can create custom solutions for your blockchain needs. I am passionate about using my skills to help businesses and individuals adopt blockchain technology.</h3>
 
 - 🤝 I’m looking for help with **Blockchain and AI Startups**
 
